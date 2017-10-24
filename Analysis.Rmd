@@ -6,7 +6,10 @@ output: html_document
 ---
 
 #Load in data
+```{r load-data}
+data <- read.csv("data/Dataset_S1.txt", header = TRUE, sep= ',')
 
+```
 
 #View data
 
