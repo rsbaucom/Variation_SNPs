@@ -1,0 +1,13 @@
+---
+title: "Variation SNPs Analysis"
+author: "Regina S Baucom"
+date: "10/24/2017"
+output: html_document
+---
+
+#Load in data
+
+
+#View data
+
+#Plot data
